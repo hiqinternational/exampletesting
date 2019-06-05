@@ -1,4 +1,4 @@
-ackage main
+package main
 
 import (  
     "fmt"  
@@ -37,4 +37,3 @@ func main() {
             m.HeapIdle, m.HeapReleased, makes)
     }
 }
-The prog
